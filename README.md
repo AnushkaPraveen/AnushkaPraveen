@@ -1,4 +1,4 @@
-                                                                             ### Hi I'm Anushka Praveen 👋
+### Hi I'm Anushka Praveen 👋
 
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=AnushkaPraveen)
