@@ -1,4 +1,4 @@
-### Hi I'm Anushka Praveen 👋
+### Hi I'm Anushka Praveen  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
@@ -6,12 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m Undergraduate at University of Moratuwa
+- 
 - 🌱 I’m currently learning React Js,Node Js & React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 📫 How to reach me anushkapraveen98@gmail.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AnushkaPraveen)
+
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaPraveen&theme=react&show_icons=true)
