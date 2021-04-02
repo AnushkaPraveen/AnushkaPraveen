@@ -6,7 +6,7 @@
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m Undergraduate at University of Moratuwa
 
