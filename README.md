@@ -1,5 +1,5 @@
-### Hi I'm Anushka Praveen  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
----
+
+<h1 align="center">Hi 👋, I'm Anushka Praveen</h1>
 
 
 
@@ -38,9 +38,8 @@
 </a>
  
 
-
-### Connect with me 😎
-<p align="Left">
+<h3 align="center">Connect with me 😎</h3>
+<p align="center">
  <a href="https://www.facebook.com/anushkapraveenjayaweera" target="_blank" rel="noopener noreferrer"> 
 <img src="./facebook.png" alt="facebook" height="40" style="vertical-align:top; margin:10px">
 </a>
