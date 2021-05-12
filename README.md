@@ -41,17 +41,20 @@
 
 ### Connect with me 😎
 <p align="Left">
- <a href="https://www.linkedin.com/in/kalpa-d/" target="_blank" rel="noopener noreferrer"> 
-<img src="./facebook.png" alt="Python" height="40" style="vertical-align:top; margin:10px">
+ <a href="https://www.facebook.com/anushkapraveenjayaweera" target="_blank" rel="noopener noreferrer"> 
+<img src="./facebook.png" alt="facebook" height="40" style="vertical-align:top; margin:10px">
 </a>
- <a href="https://stackoverflow.com/users/11211493/kalpa-d-fernando"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Python" height="40" style="vertical-align:top; margin:10px">
+ <a href="https://stackoverflow.com/users/12382875/anushka-praveen"> 
+<img src="./stack-overflow.png" alt="stack-overflow" height="40" style="vertical-align:top; margin:10px">
 </a>
-<a href="https://medium.com/@kalpafernando1998"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="40" style="vertical-align:top; margin:10px">
+<a href="https://medium.com/@anushkapraveen"> 
+<img src="./medium.png" alt="medium" height="40" style="vertical-align:top; margin:10px">
 </a>
-<a href="https://www.facebook.com/kalpaf/"> 
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="40" style="vertical-align:top; margin:10px">
+<a href="https://twitter.com/Anushka_Praveen"> 
+ <img src="./twitter.png" alt="twitter" height="40" style="vertical-align:top; margin:10px">
+ </a>
+ <a href="https://www.linkedin.com/in/anushka-praveen/"> 
+ <img src="./linkedin.png" alt="linkedin" height="40" style="vertical-align:top; margin:10px">
  </a>
 </p>
 
