@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m Undergraduate at University of Moratuwa
+- 🔭 I’m Associate Software Engineer at Intervest Software Technologies
 
 - 🌱 I’m currently learning React Js,Node Js & React Native
 
