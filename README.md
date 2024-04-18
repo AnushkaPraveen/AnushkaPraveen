@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m Associate Software Engineer at Intervest Software Technologies
+- 🔭 I’m Software Engineer at Intervest Software Technologies
 
 - 🌱 I’m currently learning React Js,Node Js & React Native
 
